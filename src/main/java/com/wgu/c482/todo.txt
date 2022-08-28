@@ -1,0 +1,6 @@
+
+
+
+Javadoc comments for each class member throughout the code, include a detailed description of the following in your comments:
+Do logical or runtime errors that I encountered
+future enhancements
