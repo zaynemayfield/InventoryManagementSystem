@@ -7,3 +7,5 @@ Oracle OpenJDK version 17.03
 JavaFX-SDK-17.0.1
 
 You can run compile and run the application. No Username or password need and no permenant data is stored.
+
+![Screenshot](https://github.com/zaynemayfield/InventoryManagementSystem/blob/master/screenshot.jpg)
